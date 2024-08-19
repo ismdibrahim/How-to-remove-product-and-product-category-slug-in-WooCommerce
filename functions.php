@@ -1,3 +1,5 @@
+<?php
+
 // Remove product post type name from permalink of single product
 
 function wsp_remove_slug( $post_link, $post, $leavename ) {
